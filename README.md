@@ -2,7 +2,7 @@
 
 Graphics design project for educational AI assistant under the supervision of Digital Egypt Pioneers Initiative
 
-![project image]([link-to-image](https://github.com/Aliaa42/Educational-AI-assistant-project-DEPI/blob/c8eac7bfa497d292f64f2d8182af5f5d8b61df31/Poster%20idea%204-01.png))
+![project image](https://github.com/Aliaa42/Educational-AI-assistant-project-DEPI/blob/f8ee0ee99059a5d30e394236df39a5523a5b8c29/Poster%20idea%204-01.png)
 
 ## Team members
 - Momen Abdelaziz 

@@ -1,1 +1,2 @@
-Educational AI assistant marketing campaign
+OCTI Educational AI Assistant Advertising campaign 
+ 
